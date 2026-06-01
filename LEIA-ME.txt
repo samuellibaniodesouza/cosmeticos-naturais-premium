@@ -1,10 +1,18 @@
-LANDING COSMÉTICOS PREMIUM - MOBILE V3 COM TIMER
+LANDING FINAL - COSMÉTICOS NATURAIS PREMIUM
 
-Alteração adicionada:
-- Temporizador de oferta com 3 horas e 27 minutos.
-- Timer salvo no navegador com localStorage para não reiniciar ao atualizar a página.
-- Timer posicionado abaixo do preço e acima do botão principal.
+Checkout Kiwify configurado:
+https://pay.kiwify.com.br/uFLeZSa
 
-Troque no index.html:
-https://SEU-LINK-DA-KIWIFY-AQUI
-pelo link real do checkout da Kiwify.
+Pixel Meta instalado:
+2700438867023389
+
+Eventos verificados:
+- PageView
+- ViewContent
+- InitiateCheckout nos botões
+
+Antes de publicar:
+1. Suba todos os arquivos no GitHub/Railway.
+2. Abra a página no celular.
+3. Clique em todos os botões para confirmar se abrem o checkout.
+4. Teste no Meta Pixel Helper.
