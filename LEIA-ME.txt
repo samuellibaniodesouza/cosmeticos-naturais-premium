@@ -1,0 +1,10 @@
+LANDING COSMÉTICOS PREMIUM - MOBILE V3 COM TIMER
+
+Alteração adicionada:
+- Temporizador de oferta com 3 horas e 27 minutos.
+- Timer salvo no navegador com localStorage para não reiniciar ao atualizar a página.
+- Timer posicionado abaixo do preço e acima do botão principal.
+
+Troque no index.html:
+https://SEU-LINK-DA-KIWIFY-AQUI
+pelo link real do checkout da Kiwify.
